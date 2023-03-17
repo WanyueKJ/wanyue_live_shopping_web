@@ -13,7 +13,7 @@
 > - 商户后台地址: <a target="_blank" href="https://malldemo.sdwanyue.com/shop/index">https://malldemo.sdwanyue.com/shop/index</a> 账号：15711449029 验证码：123456（点击获取验证码后，输入该验证码即可）
 > 
 > ### The demo APP
-> ![输入图片说明](https://images.gitee.com/uploads/images/2021/0929/201432_b98e1d63_8162876.png "155114_9bce1969_8162876.png")
+> ![输入图片说明](https://gitee.com/WanYueKeJi/wanyue_zhibo_ios/raw/master/zhibo_demo20230317.png "www.sdwanyue.com")
 > 
 > ### Client warehouse address (can be directly jumped to view)
 >  - ios版仓库地址: <a target="_blank" href="https://gitee.com/WanYueKeJi/wanyue_zhibo_ios">点击此处</a>
